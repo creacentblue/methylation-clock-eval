@@ -1,0 +1,86 @@
+● building AnnData object …
+● AnnData: 732 samples × 22394 features · 0.06% missing values imputed
+  ⎿ ⚠ No metadata provided. Leaving adata.obs empty
+
+===== horvath2013 =====
+● predict_age · 1 clock · cpu · running…
+● predict_age · 1 clock · 732 samples · 0.2s · cpu · results in adata.obs
+  ● horvath2013 (0.2s)
+
+===== hannum =====
+● predict_age · 1 clock · cpu · running…
+● predict_age · 1 clock · 732 samples · 0.1s · cpu · results in adata.obs
+  ● hannum (0.1s)
+
+===== skinandblood =====
+● predict_age · 1 clock · cpu · running…
+● predict_age · 1 clock · 732 samples · 0.1s · cpu · results in adata.obs
+  ● skinandblood (0.1s)
+
+===== zhangen =====
+● predict_age · 1 clock · cpu · running…
+● predict_age · 1 clock · 732 samples · 0.1s · cpu · results in adata.obs
+  ● zhangen (0.1s)
+
+===== lin =====
+● predict_age · 1 clock · cpu · running…
+● predict_age · 1 clock · 732 samples · 0.1s · cpu · results in adata.obs
+  ● lin (0.1s)
+
+===== intrinclock =====
+● predict_age · 1 clock · cpu · running…
+● predict_age · 1 clock · 732 samples · 0.1s · cpu · results in adata.obs
+  ● intrinclock (0.1s)
+
+===== dnamphenoage =====
+● predict_age · 1 clock · cpu · running…
+● predict_age · 1 clock · 732 samples · 0.1s · cpu · results in adata.obs
+  ● dnamphenoage (0.1s)
+
+===== dunedinpace =====
+● predict_age · 1 clock · cpu · running…
+● predict_age · 1 clock · 732 samples · 1.5s · cpu · results in adata.obs
+  ● dunedinpace (1.5s)
+    ⎿ ⚠ research use only
+
+===== deconvolutebloodepicbcell =====
+● predict_age · 1 clock · cpu · running…
+● predict_age · 1 clock · 732 samples · 0.1s · cpu · results in adata.obs
+  ● deconvolutebloodepicbcell (0.1s)
+    ⎿ ⚠ 343 out of 600 features (57.17%) are missing: ['cg02091275', 
+'cg10613215', 'cg04738410'], etc.
+
+===== deconvolutebloodepiccd4tcell =====
+● predict_age · 1 clock · cpu · running…
+● predict_age · 1 clock · 732 samples · 0.2s · cpu · results in adata.obs
+  ● deconvolutebloodepiccd4tcell (0.2s)
+    ⎿ ⚠ 343 out of 600 features (57.17%) are missing: ['cg02091275', 
+'cg10613215', 'cg04738410'], etc.
+
+===== deconvolutebloodepiccd8tcell =====
+● predict_age · 1 clock · cpu · running…
+● predict_age · 1 clock · 732 samples · 0.1s · cpu · results in adata.obs
+  ● deconvolutebloodepiccd8tcell (0.1s)
+    ⎿ ⚠ 343 out of 600 features (57.17%) are missing: ['cg02091275', 
+'cg10613215', 'cg04738410'], etc.
+
+===== deconvolutebloodepicmonocyte =====
+● predict_age · 1 clock · cpu · running…
+● predict_age · 1 clock · 732 samples · 0.1s · cpu · results in adata.obs
+  ● deconvolutebloodepicmonocyte (0.1s)
+    ⎿ ⚠ 343 out of 600 features (57.17%) are missing: ['cg02091275', 
+'cg10613215', 'cg04738410'], etc.
+
+===== deconvolutebloodepicneutrophil =====
+● predict_age · 1 clock · cpu · running…
+● predict_age · 1 clock · 732 samples · 0.1s · cpu · results in adata.obs
+  ● deconvolutebloodepicneutrophil (0.1s)
+    ⎿ ⚠ 343 out of 600 features (57.17%) are missing: ['cg02091275', 
+'cg10613215', 'cg04738410'], etc.
+
+===== deconvolutebloodepicnkcell =====
+● predict_age · 1 clock · cpu · running…
+● predict_age · 1 clock · 732 samples · 0.1s · cpu · results in adata.obs
+  ● deconvolutebloodepicnkcell (0.1s)
+    ⎿ ⚠ 343 out of 600 features (57.17%) are missing: ['cg02091275', 
+'cg10613215', 'cg04738410'], etc.

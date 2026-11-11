@@ -1,0 +1,17 @@
+,value
+geo_samples,732.0
+samples_with_age_and_genotype (individual records),729.0
+records_without_age_genotype_smoking,3.0
+Sample_Group=2012,421.0
+Sample_Group=2013,311.0
+year_of_collection=2006,683.0
+year_of_collection=2009,49.0
+median_age_Sample_Group_2012,44.0
+n_variants_used_for_identity,104.0
+pairs_compared,267546.0
+geno_dist_min_over_pairs,0.10878846144679791
+geno_dist_median,0.4721538457457568
+meth_centered_corr_max,0.7359084433185701
+meth_centered_corr_median,-0.003205020860969403
+duplicate_pairs_found (geno<0.05 or corr>0.90),0.0
+samples_kept_after_dedup,729.0

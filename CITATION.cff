@@ -1,0 +1,61 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below, and cite the underlying datasets and tools listed in docs/REFERENCES.md."
+title: "methylation-clock-eval: cross-cohort evaluation of DNA-methylation aging clocks on public whole-blood 450K data"
+type: software
+version: 0.1.0
+date-released: 2026-11-11
+license: MIT
+authors:
+  - alias: "creacentblue"
+abstract: >-
+  Scripted, rerunnable evaluation of published DNA-methylation aging clocks (via pyaging) on two public whole-blood
+  Illumina 450K cohorts (GSE40279, GSE87571), with training-overlap flags, a sample-count audit of GSE87571,
+  blood-cell-composition analysis of age acceleration, and a frozen ElasticNet external test. Educational/research
+  use only; not a clinical tool.
+keywords:
+  - DNA methylation
+  - epigenetic clock
+  - aging
+  - reproducibility
+references:
+  - type: article
+    authors:
+      - {family-names: de Lima Camillo, given-names: Lucas Paulo}
+    title: "pyaging: a Python-based compendium of GPU-optimized aging clocks"
+    journal: Bioinformatics
+    volume: 40
+    issue: 4
+    pages: btae200
+    year: 2024
+    doi: 10.1093/bioinformatics/btae200
+  - type: article
+    authors:
+      - {family-names: Hannum, given-names: "G."}
+    title: "Genome-wide methylation profiles reveal quantitative views of human aging rates"
+    journal: Molecular Cell
+    volume: 49
+    issue: 2
+    start: 359
+    end: 367
+    year: 2013
+    doi: 10.1016/j.molcel.2012.10.016
+  - type: article
+    authors:
+      - {family-names: Johansson, given-names: Åsa}
+    title: "Continuous Aging of the Human DNA Methylome Throughout the Human Lifespan"
+    journal: PLoS ONE
+    volume: 8
+    issue: 6
+    pages: e67378
+    year: 2013
+    doi: 10.1371/journal.pone.0067378
+  - type: article
+    authors:
+      - {family-names: Reinius, given-names: Lovisa E.}
+    title: "Differential DNA Methylation in Purified Human Blood Cells: Implications for Cell Lineage and Studies on Disease Susceptibility"
+    journal: PLoS ONE
+    volume: 7
+    issue: 7
+    pages: e41361
+    year: 2012
+    doi: 10.1371/journal.pone.0041361

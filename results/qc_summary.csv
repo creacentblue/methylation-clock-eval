@@ -1,0 +1,3 @@
+cohort,n_samples,n_age_missing,age_min,age_median,age_max,n_female,n_male,n_probes_in_matrix,union_needed_cpgs,union_needed_cpgs_present,clock_cpgs,clock_cpgs_present,median_sample_na_frac_all_probes,max_sample_na_frac_all_probes,mean_beta_all_probes_median
+GSE40279,656,0,19.0,65.0,101.0,338,318,470043,22737,22363,21757,21739,0.0,0.0,0.5117367521365241
+GSE87571,732,3,14.0,47.0,94.0,389,341,482421,22737,22394,21757,21757,0.0011898321175902375,0.03260637492978125,0.5377093788219001

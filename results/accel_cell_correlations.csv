@@ -1,0 +1,163 @@
+cohort,cell_source,clock,cell,pearson_r,spearman_rho,n,pearson_p
+GSE40279,houseman450k_reinius,(chronological age),CD8T,-0.1044,-0.1205,656,
+GSE40279,houseman450k_reinius,(chronological age),CD4T,-0.2002,-0.2329,656,
+GSE40279,houseman450k_reinius,(chronological age),NK,0.0768,0.0590,656,
+GSE40279,houseman450k_reinius,(chronological age),Bcell,-0.2037,-0.2641,656,
+GSE40279,houseman450k_reinius,(chronological age),Mono,0.3083,0.2970,656,
+GSE40279,houseman450k_reinius,(chronological age),Gran,0.1179,0.1456,656,
+GSE40279,houseman450k_reinius,horvath2013,CD8T,0.1056,0.1447,656,0.0068
+GSE40279,houseman450k_reinius,horvath2013,CD4T,-0.1808,-0.2184,656,0.0000
+GSE40279,houseman450k_reinius,horvath2013,NK,0.0697,0.0530,656,0.0743
+GSE40279,houseman450k_reinius,horvath2013,Bcell,-0.0811,-0.1362,656,0.0378
+GSE40279,houseman450k_reinius,horvath2013,Mono,0.0923,0.0633,656,0.0180
+GSE40279,houseman450k_reinius,horvath2013,Gran,0.0455,0.0655,656,0.2445
+GSE40279,houseman450k_reinius,hannum,CD8T,0.0351,0.0430,656,0.3699
+GSE40279,houseman450k_reinius,hannum,CD4T,-0.3338,-0.3363,656,0.0000
+GSE40279,houseman450k_reinius,hannum,NK,0.0525,0.0447,656,0.1794
+GSE40279,houseman450k_reinius,hannum,Bcell,-0.1511,-0.1665,656,0.0001
+GSE40279,houseman450k_reinius,hannum,Mono,0.0792,0.0876,656,0.0425
+GSE40279,houseman450k_reinius,hannum,Gran,0.2099,0.2066,656,0.0000
+GSE40279,houseman450k_reinius,skinandblood,CD8T,0.0130,0.0674,656,0.7389
+GSE40279,houseman450k_reinius,skinandblood,CD4T,-0.0722,-0.0833,656,0.0648
+GSE40279,houseman450k_reinius,skinandblood,NK,0.0713,0.0837,656,0.0680
+GSE40279,houseman450k_reinius,skinandblood,Bcell,-0.0867,-0.1217,656,0.0263
+GSE40279,houseman450k_reinius,skinandblood,Mono,0.0583,0.0192,656,0.1361
+GSE40279,houseman450k_reinius,skinandblood,Gran,0.0172,0.0258,656,0.6599
+GSE40279,houseman450k_reinius,zhangen,CD8T,-0.0736,-0.0407,656,0.0597
+GSE40279,houseman450k_reinius,zhangen,CD4T,-0.0783,-0.1060,656,0.0450
+GSE40279,houseman450k_reinius,zhangen,NK,-0.0188,-0.0115,656,0.6313
+GSE40279,houseman450k_reinius,zhangen,Bcell,-0.1046,-0.1224,656,0.0073
+GSE40279,houseman450k_reinius,zhangen,Mono,0.0670,0.0481,656,0.0866
+GSE40279,houseman450k_reinius,zhangen,Gran,0.1031,0.1226,656,0.0082
+GSE40279,houseman450k_reinius,lin,CD8T,0.1003,0.0854,656,0.0102
+GSE40279,houseman450k_reinius,lin,CD4T,-0.1830,-0.1900,656,0.0000
+GSE40279,houseman450k_reinius,lin,NK,-0.0176,-0.0279,656,0.6524
+GSE40279,houseman450k_reinius,lin,Bcell,-0.0901,-0.1055,656,0.0210
+GSE40279,houseman450k_reinius,lin,Mono,0.0671,0.0529,656,0.0860
+GSE40279,houseman450k_reinius,lin,Gran,0.1006,0.1137,656,0.0099
+GSE40279,houseman450k_reinius,intrinclock,CD8T,-0.0689,-0.0425,656,0.0779
+GSE40279,houseman450k_reinius,intrinclock,CD4T,0.0511,0.0252,656,0.1909
+GSE40279,houseman450k_reinius,intrinclock,NK,-0.0512,-0.0604,656,0.1900
+GSE40279,houseman450k_reinius,intrinclock,Bcell,-0.0003,-0.0239,656,0.9940
+GSE40279,houseman450k_reinius,intrinclock,Mono,0.0015,-0.0407,656,0.9686
+GSE40279,houseman450k_reinius,intrinclock,Gran,0.0161,0.0233,656,0.6812
+GSE40279,houseman450k_reinius,dnamphenoage,CD8T,-0.1077,-0.0473,656,0.0058
+GSE40279,houseman450k_reinius,dnamphenoage,CD4T,-0.2690,-0.2981,656,0.0000
+GSE40279,houseman450k_reinius,dnamphenoage,NK,-0.0829,-0.0595,656,0.0338
+GSE40279,houseman450k_reinius,dnamphenoage,Bcell,-0.1376,-0.1617,656,0.0004
+GSE40279,houseman450k_reinius,dnamphenoage,Mono,0.1515,0.1323,656,0.0001
+GSE40279,houseman450k_reinius,dnamphenoage,Gran,0.2675,0.2609,656,0.0000
+GSE40279,houseman450k_reinius,dunedinpace,CD8T,-0.0213,-0.0021,656,0.5869
+GSE40279,houseman450k_reinius,dunedinpace,CD4T,-0.2404,-0.2207,656,0.0000
+GSE40279,houseman450k_reinius,dunedinpace,NK,-0.0601,-0.0565,656,0.1239
+GSE40279,houseman450k_reinius,dunedinpace,Bcell,-0.0352,-0.0357,656,0.3682
+GSE40279,houseman450k_reinius,dunedinpace,Mono,0.1072,0.1020,656,0.0060
+GSE40279,houseman450k_reinius,dunedinpace,Gran,0.1863,0.1732,656,0.0000
+GSE87571,houseman450k_reinius,(chronological age),CD8T,-0.0242,-0.0550,729,
+GSE87571,houseman450k_reinius,(chronological age),CD4T,-0.3183,-0.3294,729,
+GSE87571,houseman450k_reinius,(chronological age),NK,0.4240,0.4404,729,
+GSE87571,houseman450k_reinius,(chronological age),Bcell,-0.2857,-0.3201,729,
+GSE87571,houseman450k_reinius,(chronological age),Mono,0.0009,-0.0036,729,
+GSE87571,houseman450k_reinius,(chronological age),Gran,0.0349,0.0408,729,
+GSE87571,houseman450k_reinius,horvath2013,CD8T,0.1779,0.1506,729,0.0000
+GSE87571,houseman450k_reinius,horvath2013,CD4T,-0.1261,-0.1193,729,0.0006
+GSE87571,houseman450k_reinius,horvath2013,NK,0.2409,0.2084,729,0.0000
+GSE87571,houseman450k_reinius,horvath2013,Bcell,-0.0828,-0.1562,729,0.0254
+GSE87571,houseman450k_reinius,horvath2013,Mono,-0.1576,-0.1653,729,0.0000
+GSE87571,houseman450k_reinius,horvath2013,Gran,-0.0908,-0.0520,729,0.0142
+GSE87571,houseman450k_reinius,hannum,CD8T,-0.0352,-0.0561,729,0.3422
+GSE87571,houseman450k_reinius,hannum,CD4T,-0.2945,-0.2974,729,0.0000
+GSE87571,houseman450k_reinius,hannum,NK,0.2343,0.2083,729,0.0000
+GSE87571,houseman450k_reinius,hannum,Bcell,-0.1571,-0.2051,729,0.0000
+GSE87571,houseman450k_reinius,hannum,Mono,-0.0130,-0.0187,729,0.7270
+GSE87571,houseman450k_reinius,hannum,Gran,0.1172,0.1296,729,0.0015
+GSE87571,houseman450k_reinius,skinandblood,CD8T,0.1147,0.1124,729,0.0019
+GSE87571,houseman450k_reinius,skinandblood,CD4T,-0.0147,-0.0174,729,0.6913
+GSE87571,houseman450k_reinius,skinandblood,NK,0.1794,0.1939,729,0.0000
+GSE87571,houseman450k_reinius,skinandblood,Bcell,-0.1249,-0.1442,729,0.0007
+GSE87571,houseman450k_reinius,skinandblood,Mono,-0.1302,-0.1400,729,0.0004
+GSE87571,houseman450k_reinius,skinandblood,Gran,-0.0943,-0.0804,729,0.0108
+GSE87571,houseman450k_reinius,zhangen,CD8T,0.0470,0.0559,729,0.2045
+GSE87571,houseman450k_reinius,zhangen,CD4T,-0.0018,-0.0047,729,0.9613
+GSE87571,houseman450k_reinius,zhangen,NK,0.1446,0.1431,729,0.0001
+GSE87571,houseman450k_reinius,zhangen,Bcell,-0.0876,-0.1081,729,0.0180
+GSE87571,houseman450k_reinius,zhangen,Mono,-0.0702,-0.0897,729,0.0583
+GSE87571,houseman450k_reinius,zhangen,Gran,-0.0749,-0.0586,729,0.0432
+GSE87571,houseman450k_reinius,lin,CD8T,0.1297,0.1214,729,0.0004
+GSE87571,houseman450k_reinius,lin,CD4T,-0.0496,-0.0443,729,0.1807
+GSE87571,houseman450k_reinius,lin,NK,0.1455,0.1203,729,0.0001
+GSE87571,houseman450k_reinius,lin,Bcell,-0.0567,-0.0698,729,0.1262
+GSE87571,houseman450k_reinius,lin,Mono,-0.1325,-0.1119,729,0.0003
+GSE87571,houseman450k_reinius,lin,Gran,-0.0727,-0.0590,729,0.0498
+GSE87571,houseman450k_reinius,intrinclock,CD8T,0.0219,0.0539,729,0.5544
+GSE87571,houseman450k_reinius,intrinclock,CD4T,0.0107,0.0023,729,0.7723
+GSE87571,houseman450k_reinius,intrinclock,NK,0.0054,0.0287,729,0.8842
+GSE87571,houseman450k_reinius,intrinclock,Bcell,-0.0128,-0.0658,729,0.7310
+GSE87571,houseman450k_reinius,intrinclock,Mono,-0.1054,-0.1129,729,0.0044
+GSE87571,houseman450k_reinius,intrinclock,Gran,0.0090,0.0152,729,0.8082
+GSE87571,houseman450k_reinius,dnamphenoage,CD8T,-0.0057,0.0214,729,0.8775
+GSE87571,houseman450k_reinius,dnamphenoage,CD4T,-0.2574,-0.2415,729,0.0000
+GSE87571,houseman450k_reinius,dnamphenoage,NK,0.0243,0.0365,729,0.5129
+GSE87571,houseman450k_reinius,dnamphenoage,Bcell,-0.1805,-0.1967,729,0.0000
+GSE87571,houseman450k_reinius,dnamphenoage,Mono,-0.0569,-0.0451,729,0.1246
+GSE87571,houseman450k_reinius,dnamphenoage,Gran,0.2372,0.2205,729,0.0000
+GSE87571,houseman450k_reinius,dunedinpace,CD8T,-0.0132,0.0097,729,0.7215
+GSE87571,houseman450k_reinius,dunedinpace,CD4T,-0.2973,-0.2516,729,0.0000
+GSE87571,houseman450k_reinius,dunedinpace,NK,-0.0574,-0.0559,729,0.1217
+GSE87571,houseman450k_reinius,dunedinpace,Bcell,-0.0586,-0.0796,729,0.1142
+GSE87571,houseman450k_reinius,dunedinpace,Mono,0.0829,0.0803,729,0.0252
+GSE87571,houseman450k_reinius,dunedinpace,Gran,0.2533,0.2317,729,0.0000
+GSE87571,depositor_houseman,(chronological age),CD8T,-0.2075,-0.2301,729,
+GSE87571,depositor_houseman,(chronological age),CD4T,-0.1275,-0.1389,729,
+GSE87571,depositor_houseman,(chronological age),NK,0.4740,0.4993,729,
+GSE87571,depositor_houseman,(chronological age),Bcell,-0.2271,-0.2434,729,
+GSE87571,depositor_houseman,(chronological age),Mono,0.0231,0.0130,729,
+GSE87571,depositor_houseman,(chronological age),Gran,0.0106,0.0206,729,
+GSE87571,depositor_houseman,horvath2013,CD8T,0.1387,0.1097,729,0.0002
+GSE87571,depositor_houseman,horvath2013,CD4T,-0.1537,-0.1290,729,0.0000
+GSE87571,depositor_houseman,horvath2013,NK,0.2205,0.2036,729,0.0000
+GSE87571,depositor_houseman,horvath2013,Bcell,-0.1069,-0.1661,729,0.0039
+GSE87571,depositor_houseman,horvath2013,Mono,-0.0654,-0.0687,729,0.0775
+GSE87571,depositor_houseman,horvath2013,Gran,-0.0801,-0.0397,729,0.0305
+GSE87571,depositor_houseman,hannum,CD8T,-0.1966,-0.2152,729,0.0000
+GSE87571,depositor_houseman,hannum,CD4T,-0.2814,-0.2832,729,0.0000
+GSE87571,depositor_houseman,hannum,NK,0.2614,0.2490,729,0.0000
+GSE87571,depositor_houseman,hannum,Bcell,-0.2105,-0.2539,729,0.0000
+GSE87571,depositor_houseman,hannum,Mono,0.1174,0.1161,729,0.0015
+GSE87571,depositor_houseman,hannum,Gran,0.1247,0.1397,729,0.0007
+GSE87571,depositor_houseman,skinandblood,CD8T,0.1077,0.1105,729,0.0036
+GSE87571,depositor_houseman,skinandblood,CD4T,0.0024,0.0091,729,0.9494
+GSE87571,depositor_houseman,skinandblood,NK,0.1697,0.1945,729,0.0000
+GSE87571,depositor_houseman,skinandblood,Bcell,-0.1096,-0.1243,729,0.0030
+GSE87571,depositor_houseman,skinandblood,Mono,-0.0844,-0.0888,729,0.0227
+GSE87571,depositor_houseman,skinandblood,Gran,-0.1007,-0.0938,729,0.0065
+GSE87571,depositor_houseman,zhangen,CD8T,0.0504,0.0520,729,0.1744
+GSE87571,depositor_houseman,zhangen,CD4T,0.0256,0.0308,729,0.4894
+GSE87571,depositor_houseman,zhangen,NK,0.1446,0.1555,729,0.0001
+GSE87571,depositor_houseman,zhangen,Bcell,-0.0677,-0.0802,729,0.0678
+GSE87571,depositor_houseman,zhangen,Mono,-0.0338,-0.0439,729,0.3622
+GSE87571,depositor_houseman,zhangen,Gran,-0.0925,-0.0852,729,0.0124
+GSE87571,depositor_houseman,lin,CD8T,0.0826,0.0864,729,0.0257
+GSE87571,depositor_houseman,lin,CD4T,-0.0775,-0.0665,729,0.0365
+GSE87571,depositor_houseman,lin,NK,0.1210,0.1004,729,0.0011
+GSE87571,depositor_houseman,lin,Bcell,-0.1033,-0.1089,729,0.0052
+GSE87571,depositor_houseman,lin,Mono,-0.0508,-0.0332,729,0.1703
+GSE87571,depositor_houseman,lin,Gran,-0.0382,-0.0316,729,0.3025
+GSE87571,depositor_houseman,intrinclock,CD8T,0.0199,0.0219,729,0.5914
+GSE87571,depositor_houseman,intrinclock,CD4T,0.0440,0.0566,729,0.2351
+GSE87571,depositor_houseman,intrinclock,NK,0.0222,0.0586,729,0.5495
+GSE87571,depositor_houseman,intrinclock,Bcell,-0.0132,-0.0597,729,0.7218
+GSE87571,depositor_houseman,intrinclock,Mono,-0.0977,-0.1054,729,0.0083
+GSE87571,depositor_houseman,intrinclock,Gran,-0.0199,-0.0168,729,0.5921
+GSE87571,depositor_houseman,dnamphenoage,CD8T,-0.0898,-0.0882,729,0.0153
+GSE87571,depositor_houseman,dnamphenoage,CD4T,-0.2343,-0.2182,729,0.0000
+GSE87571,depositor_houseman,dnamphenoage,NK,0.0427,0.0698,729,0.2495
+GSE87571,depositor_houseman,dnamphenoage,Bcell,-0.1699,-0.1916,729,0.0000
+GSE87571,depositor_houseman,dnamphenoage,Mono,0.0181,0.0308,729,0.6255
+GSE87571,depositor_houseman,dnamphenoage,Gran,0.2270,0.2099,729,0.0000
+GSE87571,depositor_houseman,dunedinpace,CD8T,-0.1075,-0.0989,729,0.0037
+GSE87571,depositor_houseman,dunedinpace,CD4T,-0.3069,-0.2716,729,0.0000
+GSE87571,depositor_houseman,dunedinpace,NK,-0.0293,-0.0223,729,0.4298
+GSE87571,depositor_houseman,dunedinpace,Bcell,-0.0643,-0.0848,729,0.0829
+GSE87571,depositor_houseman,dunedinpace,Mono,0.1550,0.1386,729,0.0000
+GSE87571,depositor_houseman,dunedinpace,Gran,0.2407,0.2261,729,0.0000

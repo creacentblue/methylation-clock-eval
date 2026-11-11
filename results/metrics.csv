@@ -1,0 +1,17 @@
+cohort,clock,clock_kind,age_scale_metrics_meaningful,n,MAE,median_AE,RMSE,R2,pearson_r,spearman_rho,bias_mean_signed_error,MAE_after_removing_bias,slope_pred_on_age,frac_cpgs_missing,n_cpgs_missing,n_cpgs_total,training_overlap,training_overlap_note
+GSE40279,horvath2013,age,True,656,4.7737,3.8666,6.3259,0.8154,0.9183,0.9149,-2.3427,4.4405,0.7966,0.0000,0,353,yes,Horvath 2013 (Genome Biol 14:R115): training data set 3 = whole-blood data of Hannum et al.; exact sample subset not verified
+GSE40279,hannum,age,True,656,5.5120,5.1292,6.7813,0.7879,0.9461,0.9397,4.7482,3.8294,0.8419,0.0000,0,71,yes,Hannum 2013: model derived (N1=482) and validated (N2=174) within GSE40279 itself -> reproduction check only
+GSE40279,skinandblood,age,True,656,4.3600,3.4053,5.7882,0.8455,0.9402,0.9388,-2.4470,4.0403,0.7861,0.0026,1,391,unknown,training data not verified for this clock/cohort
+GSE40279,zhangen,age,True,656,3.9957,3.0728,5.3808,0.8665,0.9642,0.9627,-0.0438,3.9956,1.1723,0.0019,1,514,likely_yes,"Zhang 2019 Genome Med Table 1: GSE40279 is one of the 14 pooled training cohorts; final model trained on 13,566 pooled samples"
+GSE40279,lin,age,True,656,4.1201,3.3499,5.3449,0.8683,0.9318,0.9260,-0.0000,4.1201,0.8683,0.0000,0,99,yes,Lin 2016 Aging: 99-CpG model trained on the 656 blood profiles of Hannum et al. (GSE40279) -> reproduction check only; bias ~0 here is consistent with this
+GSE40279,intrinclock,age,True,656,3.6867,3.0455,4.9308,0.8879,0.9443,0.9427,-0.5611,3.6960,0.8451,0.0000,0,380,unknown,training data not verified for this clock/cohort
+GSE40279,dnamphenoage,phenotypic_age,False,656,9.0418,7.8819,11.0549,0.4364,0.8521,0.8473,-7.8892,5.8300,0.7692,0.0000,0,513,no_evidence,pyaging notes: coefficients fitted on InCHIANTI 450K blood
+GSE40279,dunedinpace,pace,False,656,,,,,0.1351,0.1050,,,0.0012,0.0008,16,20000,no_evidence,trained on Dunedin cohort (pyaging notes); EPIC-based
+GSE87571,horvath2013,age,True,729,3.8988,3.0415,5.0514,0.9418,0.9713,0.9741,0.3330,3.9054,0.9792,0.0000,0,353,no_evidence,"GSE87571 deposited 2016, after Horvath 2013; Horvath's Additional file 1 table not machine-checked"
+GSE87571,hannum,age,True,729,5.1315,4.7048,6.1449,0.9138,0.9750,0.9771,4.0104,3.6708,0.9438,0.0000,0,71,no_evidence,"GSE87571 registered at GEO in Oct 2016, after Hannum 2013; not listed in the paper"
+GSE87571,skinandblood,age,True,729,2.8972,2.4913,3.6288,0.9699,0.9857,0.9885,0.6099,2.8419,1.0002,0.0000,0,391,unknown,training data not verified for this clock/cohort
+GSE87571,zhangen,age,True,729,6.2899,4.5345,8.2443,0.8448,0.9907,0.9929,-3.2295,6.1636,1.3142,0.0000,0,514,no_evidence,GSE87571 is not in Zhang 2019 Table 1 (14 cohorts)
+GSE87571,lin,age,True,729,5.6707,4.6706,7.2101,0.8813,0.9603,0.9646,3.1198,5.0660,1.0534,0.0000,0,99,no_evidence,GSE87571 is not among the 12 validation datasets listed in Lin 2016
+GSE87571,intrinclock,age,True,729,3.2088,2.5976,4.1663,0.9604,0.9821,0.9822,-1.3191,3.0151,0.9786,0.0000,0,380,unknown,training data not verified for this clock/cohort
+GSE87571,dnamphenoage,phenotypic_age,False,729,9.3395,9.0245,10.7750,0.7350,0.9682,0.9710,-8.9004,4.8991,1.0794,0.0000,0,513,no_evidence,pyaging notes: coefficients fitted on InCHIANTI 450K blood
+GSE87571,dunedinpace,pace,False,729,,,,,0.5927,0.5923,,,0.0039,0.0000,0,20000,no_evidence,trained on Dunedin cohort (pyaging notes); EPIC-based
